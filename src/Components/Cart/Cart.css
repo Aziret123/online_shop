@@ -1,0 +1,54 @@
+.cart {
+  margin-top: 70px;
+}
+.cart td {
+  padding: 10px 50px;
+  border-bottom: 1px solid gray;
+}
+.cart img {
+  width: 50px;
+}
+
+.boxCartTable {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding-bottom: 50px;
+}
+
+.bgCart {
+  background-color: rgb(221, 212, 212);
+  width: 100%;
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding-top: 10px;
+}
+
+#nullCart {
+  width: 300px;
+}
+
+.tableCart {
+  text-align: center;
+  margin: 50px 0;
+}
+
+#inpSum {
+  border: 0.5px solid rgba(184, 181, 181, 0.623);
+  width: 100px;
+}
+
+#inpSum:active,
+:hover,
+:focus {
+  outline: 0;
+  outline-offset: 0;
+}
+
+#textSubPrice {
+  width: 50px;
+}

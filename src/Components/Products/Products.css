@@ -1,0 +1,76 @@
+.main_box {
+  display: flex;
+  justify-content: space-between;
+}
+
+.filter {
+  box-sizing: border-box;
+  background-color: #cfcfcf98;
+  width: 20%;
+  height: 400px;
+  margin-top: 50px;
+  padding: 20px;
+  margin-left: 20px;
+  border-radius: 25px;
+}
+
+.container1 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  width: 80%;
+  /* min-height: 1000px; */
+  padding-top: 50px;
+}
+
+.bgList {
+  background-image: url(../../image/bgList.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#descText {
+  -webkit-line-clamp: 3;
+  text-overflow: "ellipsis";
+  /* white-space: "nowrap"; */
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+#imgSettings {
+  height: 190px;
+}
+
+.cardProduct:hover {
+  transform: scale(1.005);
+  box-shadow: 4px 4px 36px 0px rgba(255, 255, 255, 0.2);
+}
+
+/* Details */
+
+.cont {
+  margin: 100px 0;
+}
+
+#category::first-letter {
+  text-transform: uppercase;
+}
+
+.boxDetails {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.boxDetails_left img {
+  width: 550px;
+}
+
+.boxDetails_right {
+  padding: 20px;
+  box-shadow: 4px 4px 25px 0px rgba(0, 0, 0, 0.2);
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}

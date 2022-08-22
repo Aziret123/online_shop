@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap");
+.carousel-bil {
+  height: 300px;
+}
+
+.billboard {
+  background: linear-gradient(180deg, #1d256d 0%, #343373 100%);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 100%;
+  height: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  /*row-gap: 20px;*/
+}
+
+.left__text > h2 {
+  background: linear-gradient(
+    90.04deg,
+    #ce70de 0.04%,
+    #8882e3 29.39%,
+    #54b5d8 59.99%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  /*line-height: 115px;*/
+}
+
+.left__text > h3 {
+  width: 500px;
+  color: #ffffff;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  /*line-height: 115px;*/
+}
+
+.billboard__left {
+  display: flex;
+  flex-direction: column;
+  row-gap: 70px;
+}
+
+.billboard__left > p {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  color: #ffffff;
+  width: 500px;
+}
+
+.sp {
+  background: linear-gradient(
+    90.04deg,
+    #ce70de 0.04%,
+    #8882e3 29.39%,
+    #54b5d8 59.99%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+}
+
+.billboard__right {
+  border-radius: 27px;
+  overflow: hidden;
+}

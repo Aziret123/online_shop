@@ -1,0 +1,100 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Apple Watch 7",
+      "description": "Смартфон iPhone 13 обладает хорошей камерой на 12+12 Мп и батареей емкостью мАч. Оперативной памяти на 4 ГБ хватает для стабильной работы системы, объем встроенной памяти составляет 64 ГБ.",
+      "price": 83000,
+      "image": "https://www.apple.com/newsroom/images/product/watch/standard/Apple_watch-experience-for-entire-family-hero_09152020_big.jpg.large.jpg",
+      "category": "watch"
+    },
+    {
+      "id": 2,
+      "title": "Iphone 11",
+      "description": "Смартфон iPhone 13 обладает хорошей камерой на 12+12 Мп и батареей емкостью мАч. Оперативной памяти на 4 ГБ хватает для стабильной работы системы, объем встроенной памяти составляет 64 ГБ.",
+      "price": 73000,
+      "image": "https://svetofor.info/images/detailed/156/smartfon-apple-iphone-xs-max-64-gb-ram-4-gb-dual-sim-space-gray-1.jpg",
+      "category": "phone"
+    },
+    {
+      "id": 3,
+      "title": "Samsung",
+      "description": "Смартфон iPhone 13 обладает хорошей камерой на 12+12 Мп и батареей емкостью мАч. Оперативной памяти на 4 ГБ хватает для стабильной работы системы, объем встроенной памяти составляет 64 ГБ.",
+      "price": 73000,
+      "image": "https://object.pscloud.io/cms/cms/Photo/img_0_77_3516_0_6.png",
+      "category": "phone"
+    },
+    {
+      "id": 4,
+      "title": "Sam watch",
+      "description": "Смартфон iPhone 13 обладает хорошей камерой на 12+12 Мп и батареей емкостью мАч. Оперативной памяти на 4 ГБ хватает для стабильной работы системы, объем встроенной памяти составляет 64 ГБ.",
+      "price": 73000,
+      "image": "https://object.pscloud.io/cms/cms/Photo/img_0_911_602_0_1.jpg",
+      "category": "watch"
+    },
+    {
+      "id": 5,
+      "title": "Mi laptop",
+      "description": "Смартфон iPhone 13 обладает хорошей камерой на 12+12 Мп и батареей емкостью мАч. Оперативной памяти на 4 ГБ хватает для стабильной работы системы, объем встроенной памяти составляет 64 ГБ.",
+      "price": 172995,
+      "image": "https://svetofor.info/images/detailed/156/smartfon-apple-iphone-xs-max-64-gb-ram-4-gb-dual-sim-space-gray-1.jpg",
+      "category": "laptop"
+    },
+    {
+      "id": 6,
+      "title": "HP laptop",
+      "description": "Смартфон iPhone 13 обладает хорошей камерой на 12+12 Мп и батареей емкостью мАч. Оперативной памяти на 4 ГБ хватает для стабильной работы системы, объем встроенной памяти составляет 64 ГБ.",
+      "price": 73000,
+      "image": "https://svetofor.info/images/detailed/156/smartfon-apple-iphone-xs-max-64-gb-ram-4-gb-dual-sim-space-gray-1.jpg",
+      "category": "laptop"
+    },
+    {
+      "id": 7,
+      "title": "Samsung A7",
+      "description": "Смартфон iPhone 13 обладает хорошей камерой на 12+12 Мп и батареей емкостью мАч. Оперативной памяти на 4 ГБ хватает для стабильной работы системы, объем встроенной памяти составляет 64 ГБ.",
+      "price": 83000,
+      "image": "https://object.pscloud.io/cms/cms/Photo/img_0_77_3516_0_6.png",
+      "category": "phone"
+    },
+    {
+      "id": 8,
+      "title": "Iphone XR",
+      "description": "Смартфон iPhone 13 обладает хорошей камерой на 12+12 Мп и батареей емкостью мАч. Оперативной памяти на 4 ГБ хватает для стабильной работы системы, объем встроенной памяти составляет 64 ГБ.",
+      "price": 73000,
+      "image": "https://svetofor.info/images/detailed/156/smartfon-apple-iphone-xs-max-64-gb-ram-4-gb-dual-sim-space-gray-1.jpg",
+      "category": "phone"
+    },
+    {
+      "id": 9,
+      "title": "MacBook Air 13",
+      "description": "Смартфон iPhone 13 обладает хорошей камерой на 12+12 Мп и батареей емкостью мАч. Оперативной памяти на 4 ГБ хватает для стабильной работы системы, объем встроенной памяти составляет 64 ГБ.",
+      "price": 73000,
+      "image": "https://svetofor.info/images/detailed/156/smartfon-apple-iphone-xs-max-64-gb-ram-4-gb-dual-sim-space-gray-1.jpg",
+      "category": "laptop"
+    },
+    {
+      "id": 10,
+      "title": "Apple Watch",
+      "description": "Смартфон iPhone 13 обладает хорошей камерой на 12+12 Мп и батареей емкостью мАч. Оперативной памяти на 4 ГБ хватает для стабильной работы системы, объем встроенной памяти составляет 64 ГБ.",
+      "price": 73000,
+      "image": "https://www.apple.com/newsroom/images/product/watch/standard/Apple_watch-experience-for-entire-family-hero_09152020_big.jpg.large.jpg",
+      "category": "laptop"
+    },
+    {
+      "id": 11,
+      "title": "Mi Watch",
+      "description": "Смартфон iPhone 13 обладает хорошей камерой на 12+12 Мп и батареей емкостью мАч. Оперативной памяти на 4 ГБ хватает для стабильной работы системы, объем встроенной памяти составляет 64 ГБ.",
+      "price": 172995,
+      "image": "https://svetofor.info/images/detailed/156/smartfon-apple-iphone-xs-max-64-gb-ram-4-gb-dual-sim-space-gray-1.jpg",
+      "category": "watch"
+    },
+    {
+      "id": 12,
+      "title": "Smart Watch",
+      "description": "Смартфон iPhone 13 обладает хорошей камерой на 12+12 Мп и батареей емкостью мАч. Оперативной памяти на 4 ГБ хватает для стабильной работы системы, объем встроенной памяти составляет 64 ГБ.",
+      "price": 73000,
+      "image": "https://object.pscloud.io/cms/cms/Photo/img_0_911_602_0_1.jpg",
+      "category": "watch"
+    }
+  ]
+}
